@@ -1,0 +1,14 @@
+{
+  "name": "johngrey0-plugins",
+  "owner": {
+    "name": "JohnGrey0"
+  },
+  "description": "JohnGrey0's plugins for Claude Code.",
+  "plugins": [
+    {
+      "name": "resume-agents",
+      "source": "./plugins/resume-agents",
+      "description": "Restarts background subagents that a usage limit stopped, as soon as the limit resets."
+    }
+  ]
+}

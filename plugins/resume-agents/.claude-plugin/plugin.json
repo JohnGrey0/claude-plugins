@@ -1,0 +1,15 @@
+{
+  "name": "resume-agents",
+  "version": "0.1.0",
+  "description": "Restarts background subagents that a usage limit stopped, as soon as the limit resets. Claude Code's own auto-continue covers the main session only.",
+  "author": {
+    "name": "JohnGrey0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "usage-limit",
+    "subagents",
+    "resume",
+    "rate-limit"
+  ]
+}
